@@ -47,7 +47,9 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Bandcamp? Why pay them?</div>
+                <a href="https://aswedivide.bandcamp.com" class="title">
+                    Looking for Bandcamp? <br>
+                    Click Here</a>
             </div>
         </div>
     </body>
