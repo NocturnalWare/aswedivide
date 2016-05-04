@@ -47,7 +47,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <a href="https://aswedivide.bandcamp.com" class="title">
+                <a href="https://aswedivide.bandcamp.com" class="title" style="text-decoration:none">
                     Looking for Bandcamp? <br>
                     Click Here</a>
             </div>
